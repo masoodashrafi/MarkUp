@@ -1,5 +1,5 @@
 /************************
- * Project: Java Marking System
+ * Project: MarkUp
  * Programmer: Masood Ashrafi
  * Date: February 04, 2021 
  * Program: markingsystem.java
@@ -24,7 +24,7 @@ public class markingsystem {
                 String grade; 
                 String name; 
                 String course; 
-                String title = "Welcome to the Average Atlas.";
+                String title = "Welcome to MarkUp.";
                 
                 for(int i = 0; i < title.length(); i++)
                 {
